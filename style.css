@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+    
+    
+}
+h1{
+    color: blue;
+
+}
+div{
+    margin-left: 50%;
+
+    width: 40px;
+    display: flex;
+    gap: 20px;
+
+}
+
+p{
+    color:red;
+    width: 40%;
+    margin-left: 50%;
+}
